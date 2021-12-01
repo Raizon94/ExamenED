@@ -43,6 +43,7 @@ public class Reto3 extends javax.swing.JFrame {
         jScrollPane1.setViewportView(jTextArea1);
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("RETO 3");
 
         jLabel2.setText("Nombre:");
 
